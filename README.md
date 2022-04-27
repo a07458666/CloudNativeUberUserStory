@@ -32,3 +32,14 @@ Accptance Criteria :
     - GIVEN : 結帳時能夠選擇優先運送  
     - When：選擇優先運送時，增加訂單金額，訂單附上優先運送條件  
     - THEN : 結帳後外送員取餐完直送
+
+## 310553042
+### Uber Eats
+User Story：一個有固定飲食習慣的使用者，希望可以快速點餐。
+Accptance Criteria :  
+    - GIVEN : 製作UberEat widget,方便釘選到手機主畫面  
+    - When： 使用者點擊widget上採用歷史訂單  
+    - THEN : 訂單完成，等待取餐
+    - GIVEN : Widget改成顯示訂單進度   
+    - When : 使用者可以快速確認訂單狀態，並決定什麼時候出門拿餐
+    - Then : 取得餐點，完成快速的需求
